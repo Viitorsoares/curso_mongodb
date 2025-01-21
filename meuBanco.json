@@ -1,0 +1,3 @@
+{"_id":{"$oid":"678edd85b9a82673f6cb0ce2"},"Nome":"Vitor","Idade":43}
+{"_id":{"$oid":"678edda8b9a82673f6cb0ce3"},"Nome":"Maria","Idade":23}
+{"_id":{"$oid":"678eddcfb9a82673f6cb0ce4"},"Nome":"Paulo","Idade":29}
